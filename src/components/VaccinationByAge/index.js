@@ -12,7 +12,7 @@ class VaccinationByAge extends Component {
         <h1>Vaccination by age</h1>
 
         <ResponsiveContainer width="100%" height={300}>
-          <PieChart>
+          <PieChart width={1000} height={300}>
             <Pie
               cx="70%"
               cy="40%"

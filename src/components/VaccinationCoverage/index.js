@@ -27,6 +27,8 @@ const VaccinationCoverage = props => {
 
       <ResponsiveContainer width="100%" height={500}>
         <BarChart
+          width={1000}
+          height={300}
           data={last7DaysVaccination}
           margin={{
             top: 5,

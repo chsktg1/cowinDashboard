@@ -37,7 +37,7 @@ class CowinDashboard extends Component {
         src="https://assets.ccbp.in/frontend/react-js/api-failure-view.png"
         alt="failure view"
       />
-      <p>Something went wrong</p>
+      <h1>Something went wrong</h1>
     </>
   )
 
